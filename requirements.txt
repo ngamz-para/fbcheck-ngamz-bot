@@ -1,4 +1,5 @@
 python-telegram-bot==20.0
-pandas==2.2.3          # Phiên bản pandas đã sửa lỗi cho Python 3.13
+pandas==2.2.3
 beautifulsoup4==4.12.0
 requests==2.31.0
+selenium==4.21.0  # Thêm dòng này để cài đặt Selenium
